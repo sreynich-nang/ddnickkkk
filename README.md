@@ -1,5 +1,5 @@
 <h1 align="center">Heyoo 👋, I'm Nick.</h1>
-<h3 align="center">Currently is a Data Science 4th-year student - AI & Machine Learning.</h3>
+<h3 align="center">Currently is a Data Science 4th-year student - AI & Machine Learning. To me, ML is powerful to make a clear and good decision with the historical dataset.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddnickkkk&label=Profile%20views&color=0e75b6&style=flat" alt="ddnickkkk" /> </p>
